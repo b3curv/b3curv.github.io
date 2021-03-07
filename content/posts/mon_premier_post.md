@@ -15,12 +15,12 @@ Description
 
 <!--more-->
 
-## En gras
+## Mon titre en gras
 
 Coucou je raconte ma vie
 
 Voilà une image de mon projet:
-![Super image](/img/test.jpeg)
+![Super image](/img/test2.jpeg)
 
 Voilà un super lien :
 [lien](https://leiningen.org/)
