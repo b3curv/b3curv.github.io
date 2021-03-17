@@ -1,5 +1,5 @@
 ---
-title: Emmenez-moi au fond de l´ocean
+title: j'emmene ma chambre au fond de l´ocean
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -11,7 +11,7 @@ tags:
   - Espace
 ---
 
-Projet d'espace : Plongr ma chambre dans les fond sous-marin...
+Projet d'espace : Plonger ma chambre dans les fond sous-marin...
 
 <!--more-->
 
