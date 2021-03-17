@@ -33,6 +33,8 @@ C’est pourquoi mon projet pourrait être une façon de dénoncer cette perpét
 Mon idée a donc été de concevoir **une maquette** de ma chambre plongée dans l’univers marin.
 Pour donner l’idée de descendre dans les profondeurs, j’ai joué sur l’omniprésence de l’eau réelle d’un **aquarium** surplombant le plafond de chambre. Les miroirs flexibles fixés sur les murs et le sol de ma maquette qui illustrent un océan vaste et infini et qui créer des reflets de lumière et multiplient les dimensions.
 
+Voila ce que j'avais l'idée de faire:
+![Super image](/img/ocean_final.jpg)
 
 ## MES CHOIX PLASTIQUE:
 J'ai ainsi utilisé
@@ -40,12 +42,19 @@ J'ai ainsi utilisé
 - une **boîte 15 par 15 par 3** que j’ai remplis d’eau coloré avec des colorant bleu et jaune afin de faire l’aquarium au couleur de la mer.
 - J’ai fixé aux murs de gauche et droite ainsi qu’au sol **des feuille miroir flexibles et adhésives**. 
 
-Voilà une image de mon projet:
+## MA MAQUETTE:
+
+Vue de l'exterieur:
 ![Super image](/img/ocean_final.jpg)
 
 
-Voilà un super lien :
-[lien](https://lien.com)
+## MON PREMIER TIRAGE DE PHOTOS:
+À LA LUMIÈRE DU JOUR
+![Super image](/img/ocean_final.jpg)
+
+## MON SECOND TIRAGE DE PHOTOS:
+DANS LE NOIR AVEC UNE LUMIÈRE ET UN FITRE BLEU
+![Super image](/img/ocean_final.jpg)
 
 
 Voila une super video:
