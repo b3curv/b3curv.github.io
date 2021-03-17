@@ -1,5 +1,5 @@
 ---
-title: j'emmene ma chambre au fond de l´ocean
+title: J'emmene ma chambre au fond de l´ocean
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -8,10 +8,11 @@ cover: /img/ocean_finalV2.JPG
 categories:
   - Projets
 tags:
-  - Espace
+  - Espace sénographie
 ---
 
-Projet d'espace : Plonger ma chambre dans les fond sous-marin...
+Projet d'espace sénographique : 
+Plonger mon plafond, mon plancher et ma fenetre dans les fonds sous-marin...
 
 <!--more-->
 
@@ -19,8 +20,13 @@ Projet d'espace : Plonger ma chambre dans les fond sous-marin...
 
 J'ai eu l'idée d'emmener ma chambre a l'autre bout du monde
 
+## MES CROQUIS ET MES RECHERCHES:
+![Super image](/img/ocean_final.jpg)
+
+## MES CHOIX PLASTIQUE:
 Voilà une image de mon projet:
 ![Super image](/img/ocean_final.jpg)
+
 
 Voilà un super lien :
 [lien](https://lien.com)
