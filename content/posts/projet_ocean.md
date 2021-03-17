@@ -27,7 +27,7 @@ Malheureusement nos océans ne sont pas aussi non-occupés par les hommes que l�
 **C’est pourquoi mon projet pourrait être une façon de dénoncer cette perpétuelle présence de l’homme sur terre et en spécifique dans la mer.**
 
 ## MES CROQUIS ET MES RECHERCHES:
-![Super image](/img/ocean_final.jpg)
+![Super image](/img/planche_ocean_montage.PNG)
 
 ## CONCEPTION DE LA MAQUETTE:
 Mon idée a donc été de concevoir **une maquette** de ma chambre plongée dans l’univers marin.
