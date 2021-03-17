@@ -24,7 +24,7 @@ Mon intention a été d’emmener ma chambre, donc mon plafond mon plancher et m
 
 Malheureusement nos océans ne sont pas aussi non-occupés par les hommes que l’on pourrait le croire. Des centaines de câbles sous-marins se promènent dans ces eaux.
 
-C’est pourquoi mon projet pourrait être une façon de dénoncer cette perpétuelle présence de l’homme sur terre et en spécifique dans la mer.
+**C’est pourquoi mon projet pourrait être une façon de dénoncer cette perpétuelle présence de l’homme sur terre et en spécifique dans la mer.**
 
 ## MES CROQUIS ET MES RECHERCHES:
 ![Super image](/img/ocean_final.jpg)
@@ -34,6 +34,7 @@ Mon idée a donc été de concevoir **une maquette** de ma chambre plongée dans
 Pour donner l’idée de descendre dans les profondeurs, j’ai joué sur l’omniprésence de l’eau réelle d’un **aquarium** surplombant le plafond de chambre. Les miroirs flexibles fixés sur les murs et le sol de ma maquette qui illustrent un océan vaste et infini et qui créer des reflets de lumière et multiplient les dimensions.
 
 Voila ce que j'avais l'idée de faire:
+J'ai realisé ce montage à partir des bases de ma maquette ainsi que l'application Procreate.
 ![Super image](/img/ocean_final.jpg)
 
 ## MES CHOIX PLASTIQUE:
@@ -57,5 +58,5 @@ DANS LE NOIR AVEC UNE LUMIÈRE ET UN FITRE BLEU
 ![Super image](/img/ocean_final.jpg)
 
 
-Voila une super video:
+Voila une video du second tirage:
 {{< youtube FmltZt2SAQo >}}
