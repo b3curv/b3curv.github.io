@@ -17,10 +17,17 @@ Description
 
 ## Mon titre en gras
 
-Coucou je raconte ma vie
 
-Voilà une image de mon projet:
-![Super image](/img/antinomie_final.jpg)
+## MON INTENTION:
 
-Voilà un super lien :
-[lien](https://leiningen.org/)
+
+## MES CROQUIS ET MES RECHERCHES:
+![Super image](/img/planche_ocean_montage.PNG)
+
+## CONCEPTION DE LA MAQUETTE:
+
+## MES CHOIX PLASTIQUE:
+
+## MA MAQUETTE:
+
+## MON TIRAGE DE PHOTOS:
