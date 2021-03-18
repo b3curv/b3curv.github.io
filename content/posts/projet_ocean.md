@@ -8,11 +8,11 @@ cover: /img/ocean_finalV2.JPG
 categories:
   - Projets
 tags:
-  - Espace sénographie
+  - Espace scénographie
 ---
 
-Projet d'espace sénographique : 
-Plonger mon plafond, mon plancher et ma fenêtre dans les fonds sous-marin...
+Projet d'espace scénographique : 
+Plonger mon plafond, mon plancher et ma fenêtre dans les fonds sous-marins...
 
 <!--more-->
 
@@ -41,7 +41,7 @@ J'ai realisé ce montage à partir des bases de ma maquette ainsi que l'applicat
 J'ai ainsi utilisé
 - du **carton de papier bleu** pour représenter le papier peint bleu de ma chambre,
 - une **boîte 15 par 15 par 3** que j’ai remplis d’eau coloré avec des colorant bleu et jaune afin de faire l’aquarium au couleur de la mer.
-- J’ai fixé aux murs de gauche et droite ainsi qu’au sol **des feuille miroir flexibles et adhésives**. 
+- J’ai fixé aux murs de gauche et droite ainsi qu’au sol **des feuilles miroir flexibles et adhésives**. 
 
 ## MA MAQUETTE:
 
