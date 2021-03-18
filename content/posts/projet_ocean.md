@@ -45,7 +45,6 @@ J'ai ainsi utilisé
 
 ## MA MAQUETTE:
 
-Vue de l'exterieur:
 ![Super image](/img/vue_exterieur_ocean.jpg)
 
 
