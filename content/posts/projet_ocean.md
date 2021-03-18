@@ -46,7 +46,7 @@ J'ai ainsi utilisé
 ## MA MAQUETTE:
 
 Vue de l'exterieur:
-![Super image](/img/ocean_final.jpg)
+![Super image](/img/vue_exterieur_ocean.jpg)
 
 
 ## MON PREMIER TIRAGE DE PHOTOS:
