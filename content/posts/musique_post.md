@@ -18,7 +18,6 @@ Projet espace :
 
 ## MON INTENTION:
 
-Mon intention a été 
 
 ## MES CROQUIS ET MES RECHERCHES:
 ![Super image](/img/planche_ocean_montage.PNG)
