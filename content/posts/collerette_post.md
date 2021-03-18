@@ -37,7 +37,7 @@ J'aime les métamorphoses impressionnantes en volume qu'elle a connu dans les an
 
 ## MES CROQUIS ET MES RECHERCHES:
 
-![Super image](/img/planche_ocean_montage.PNG)
+![Super image](/img/vue_exterieur_ocean.jpg)
 
 
 ## CONCEPTION DE LA MAQUETTE:
