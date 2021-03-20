@@ -36,6 +36,8 @@ Pour donner l’idée de descendre dans les profondeurs, j’ai joué sur l’om
 
 Voila ce que j'avais l'idée de faire:
 J'ai realisé ce montage à partir des bases de ma maquette ainsi que l'application Procreate.
+
+
 ![Super image](/img/ocean_final.jpg)
 
 ## MES CHOIX PLASTIQUE:
@@ -55,10 +57,12 @@ J'ai ainsi utilisé
 
 ## MON SECOND TIRAGE DE PHOTOS:
 dans le noir avec un filtre bleu
-![Super image](/img/ocean_final.jpg)
+
+
+![Super image](/img/deuxième_shoot_ocean.PNG)
 
 
 Voila quelques videos du second tirage:
 {{< youtube FmltZt2SAQo >}}
 
-## inspiration? Jacque Rouge?
+## JE ME SUIS INSPIRÉE DE Jacque Rouge?
