@@ -4,7 +4,7 @@ date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-03-14T23:54:31+08:00
 author: Adeline
 avatar: /me/yy.jpg
-cover: /img/simu_collerette.jpg
+cover: /img/final_collerette.jpg
 categories:
   - Projets
 tags:
