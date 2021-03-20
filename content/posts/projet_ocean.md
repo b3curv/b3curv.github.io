@@ -26,6 +26,7 @@ Malheureusement nos océans ne sont pas aussi non-occupés par les hommes que l�
 
 **C’est pourquoi mon projet pourrait être une façon de dénoncer cette perpétuelle présence de l’homme sur terre et en spécifique dans la mer.**
 
+
 ## MES CROQUIS ET MES RECHERCHES:
 ![Super image](/img/planche_ocean_montage.PNG)
 
@@ -49,13 +50,15 @@ J'ai ainsi utilisé
 
 
 ## MON PREMIER TIRAGE DE PHOTOS:
-À LA LUMIÈRE DU JOUR
-![Super image](/img/ocean_final.jpg)
+à la lumière du jour
+![Super image](/img/premier_shoot.jpg)
 
 ## MON SECOND TIRAGE DE PHOTOS:
-DANS LE NOIR AVEC UNE LUMIÈRE ET UN FITRE BLEU
+dans le noir avec un filtre bleu
 ![Super image](/img/ocean_final.jpg)
 
 
-Voila une video du second tirage:
+Voila quelques videos du second tirage:
 {{< youtube FmltZt2SAQo >}}
+
+## inspiration? Jacque Rouge?
