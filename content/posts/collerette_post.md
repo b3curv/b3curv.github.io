@@ -35,11 +35,11 @@ Celle que je préfère et qui m'a inspirée pour ce projet est la collerette "gr
 
 J'aime les métamorphoses impressionnantes en volume qu'elle a connu dans les années 1570. La mode féminine est proche en cela de la mode masculine, ce qui ne sera plus le cas à partir des années 1580, la fraise des femmes vont suivre une évolution distincte de la fraise portée par les hommes.
 
-![Super image](/img/vue_exterieur_ocean.jpg)
+![Super image](/img/simu_collerette.jpg)
 
 ## MES CROQUIS ET MES RECHERCHES:
 
-![Super image](/img/vue_exterieur_ocean.jpg)
+![Super image](/img/simu_collerette.jpg)
 
 
 ## CONCEPTION DE LA MAQUETTE:
@@ -49,7 +49,7 @@ Pour réalisé les volants de la collerette, j'ai voulu essayer l'argile.
 
 Voila ce que j’avais l’idée de faire: J’ai realisé ce montage à partir d'une photo d'une collerette des années 1570 ainsi que l’application Procreate. 
 m
-![Super image](/img/planche_ocean_montage.PNG)
+![Super image](/img/simu_collerette.jpg)
 
 
 ## MES CHOIX PLASTIQUE:
@@ -59,5 +59,5 @@ m
 
 
 ## MA MAQUETTE:
-![Super image](/img/planche_ocean_montage.PNG)
+![Super image](/img/simu_collerette.jpg)
 
