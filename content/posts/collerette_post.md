@@ -54,8 +54,8 @@ Voila ce que j’avais l’idée de faire: J’ai realisé ce montage à partir 
 - Pour les côtés de ma collerette, j’ai
 
 Réalisation du plafond de la collerette:
-![Super image](/img/simu_collerette.jpg)
-![Super image](/img/simu_collerette.jpg)
+![Super image](/img/construction_argile.JPG)
+![Super image](/img/simu_argile.jpg)
 
 ## MA MAQUETTE:
 ![Super image](/img/simu_collerette.jpg)
