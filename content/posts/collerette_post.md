@@ -32,7 +32,8 @@ Son succès touche toute l'Europe. Elle est portée à la fois par les femmes et
 Celle que je préfère et qui m'a inspirée pour ce projet est la collerette "grande fraise" des années 1570-1580.
 J'aime les métamorphoses impressionnantes en volume qu'elle a connu dans les années 1570 - 1580. 
 
-![Super image](/img/simu_collerette.jpg)
+![Super image](/img/collerette_presentation.JPG)
+![Super image](/img/collerette_evolution.JPG)
 
 ## MES CROQUIS ET MES RECHERCHES:
 
