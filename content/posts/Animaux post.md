@@ -20,6 +20,9 @@ Mon idée a été de prendre les caractéristiques de differents animaux et de c
 
 Ainsi j’ai imaginer des sacs et des vases qui font penser à des animaux.
 
+## MOI ET LES ANIMAUX:
+
+## MES CROQUIS D´ANIMAUX:
 
 Voilà une image de mon projet:
 ![Super image](/img/.jpg)
