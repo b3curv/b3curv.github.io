@@ -20,7 +20,6 @@ Projet Espace : D'une collerette à un parc ouvert...
 
 Mon intention a été de retranscrire un habit en un habitat.
 
-
 Dans cette idée, j'ai repris l'élément de la mode emblématique de la fin de la Renaissance,
 <ins> **la collerette.**</ins>
 
@@ -31,9 +30,7 @@ Son succès touche toute l'Europe. Elle est portée à la fois par les femmes et
 ## POURQUOI UNE COLLERETTE? 
 
 Celle que je préfère et qui m'a inspirée pour ce projet est la collerette "grande fraise" des années 1570-1580.
-
-
-J'aime les métamorphoses impressionnantes en volume qu'elle a connu dans les années 1570. La mode féminine est proche en cela de la mode masculine, ce qui ne sera plus le cas à partir des années 1580, la fraise des femmes vont suivre une évolution distincte de la fraise portée par les hommes.
+J'aime les métamorphoses impressionnantes en volume qu'elle a connu dans les années 1570 - 1580. 
 
 ![Super image](/img/simu_collerette.jpg)
 
@@ -48,7 +45,7 @@ J'ai donc eu l'idée de concevoir une maquette de cette grande fraise pour la tr
 Pour réalisé les volants de la collerette, j'ai voulu essayer l'argile.
 
 Voila ce que j’avais l’idée de faire: J’ai realisé ce montage à partir d'une photo d'une collerette des années 1570 ainsi que l’application Procreate. 
-m
+
 ![Super image](/img/simu_collerette.jpg)
 
 
