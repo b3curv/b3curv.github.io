@@ -19,7 +19,6 @@ Projet Espace : D'une collerette à un parc ouvert...
 ## MON INTENTION:
 
 Mon intention a été de retranscrire un habit en un habitat.
-
 Dans cette idée, j'ai repris l'élément de la mode emblématique de la fin de la Renaissance,
 <ins> **la collerette.**</ins>
 
@@ -29,8 +28,7 @@ Son succès touche toute l'Europe. Elle est portée à la fois par les femmes et
 
 ## POURQUOI UNE COLLERETTE? 
 
-Celle que je préfère et qui m'a inspirée pour ce projet est la collerette "grande fraise" des années 1570-1580.
-J'aime les métamorphoses impressionnantes en volume qu'elle a connu dans les années 1570 - 1580. 
+Celle que je préfère et qui m'a inspirée pour ce projet est la collerette "grande fraise". J'aime les métamorphoses impressionnantes en volume qu'elle a connu dans les années 1570 - 1580. 
 
 ![Super image](/img/collerette_presentation.JPG)
 ![Super image](/img/collerette_evolution.JPG)
