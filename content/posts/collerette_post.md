@@ -35,7 +35,7 @@ Celle que je préfère et qui m'a inspirée pour ce projet est la collerette "gr
 
 ## MES CROQUIS ET MES RECHERCHES:
 
-![Super image](/img/simu_collerette.jpg)
+![Super image](/img/.jpg)
 
 
 ## CONCEPTION DE LA MAQUETTE:
@@ -50,9 +50,12 @@ Voila ce que j’avais l’idée de faire: J’ai realisé ce montage à partir 
 
 ## MES CHOIX PLASTIQUE:
 
-- Pour le plafond de mon batiment j'ai donc pensé à un système pour faire sécher l'argile sur un support dont elle prendra la forme.
-- Pour les côtés de ma collerette,
+- Pour le plafond de mon batiment j'ai donc pensé à un système pour faire sécher **l'argile** sur un support dont elle prendra la forme.
+- Pour les côtés de ma collerette, j’ai
 
+Réalisation du plafond de la collerette:
+![Super image](/img/simu_collerette.jpg)
+![Super image](/img/simu_collerette.jpg)
 
 ## MA MAQUETTE:
 ![Super image](/img/simu_collerette.jpg)
