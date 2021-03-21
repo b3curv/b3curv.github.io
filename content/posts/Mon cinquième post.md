@@ -1,5 +1,5 @@
 ---
-title: "Projet Espace "
+title: "Je transforme un animal en un sac"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -8,10 +8,10 @@ cover: /img/antinomie_final.jpg
 categories:
   - Projets
 tags:
-  - Espace
+  - Objet
 ---
 
-Description
+Projet objet: Poils, plumes, peaux
 
 <!--more-->
 
