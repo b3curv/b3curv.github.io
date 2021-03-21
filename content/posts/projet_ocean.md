@@ -16,6 +16,10 @@ Plonger mon plafond, mon plancher et ma fenêtre dans les fonds sous-marins...
 
 <!--more-->
 
+## MES EXPERIENCES AVEC L'OCÉAN
+J'ai toujours été fasciné par ces vastes étendues d’eau de la Terre, les océans. D'ailleurs la Terre doit son surnom de Planète bleue au fait que plus de 70 % de sa superficie est recouverte de mers, d'océans et de lacs. Ces mers et ces océans je les ai traversé, survolé, longé... lors de mes nombreux voyages. Mais vue d'un bateau, d'un avion ou d'une plage, mon émerveillement pour l'océan ne change pas. 
+ 
+ 
 ## MON INTENTION:
 
 Mon intention a été d’emmener ma chambre, donc mon plafond mon plancher et ma fenêtre à l’autre bout du monde, là où on ne peut pas trouver de maison, où il n’y aucune construction anthropique. 
