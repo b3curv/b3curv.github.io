@@ -16,9 +16,8 @@ Plonger mon plafond, mon plancher et ma fenêtre dans les fonds sous-marins...
 
 <!--more-->
 
-## MES EXPERIENCES AVEC L'OCÉAN
-J'ai toujours été fasciné par ces vastes étendues d’eau de la Terre, les océans. D'ailleurs la Terre doit son surnom de Planète bleue au fait que plus de 70 % de sa superficie est recouverte de mers, d'océans et de lacs. Ces mers et ces océans je les ai traversé, survolé, longé... lors de mes nombreux voyages. Mais vue d'un bateau, d'un avion ou d'une plage, mon émerveillement pour l'océan ne change pas. 
- 
+## MES EXPERIENCES AVEC L'OCÉAN:
+J'ai traversé, survolé, et longé lors de mes nombreux voyages de nombreux mers et oceans. Mais vue d'un bateau, d'un avion ou d'une plage, mon émerveillement pour l'océan ne change pas. Je suis fasciné par l'immensité des océans de la Terre qui d'ailleurs donne à la Terre son surnom de Planète bleue, au fait que plus de 70 % de sa superficie est recouverte de mers, d'océans et de lacs. 
  
 ## MON INTENTION:
 
