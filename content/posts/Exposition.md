@@ -10,12 +10,12 @@ categories:
 
 ---
 
-Projet espace : Exprimer les émotions que me suscite une musique en dessinant
+
 
 <!--more-->
 
 
-## Expositions
+## EXPOSITIONS
 
 
 
