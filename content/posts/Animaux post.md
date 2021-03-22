@@ -1,5 +1,5 @@
 ---
-title: "Je transforme un animal en un objet"
+title: "J’incarne un animal en objet"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
