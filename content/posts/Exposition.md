@@ -27,42 +27,42 @@ Ainsi avec ma famille, une amie, mon copain ou mon groupe d’atelier d’arts a
 
 
 ## EXPOSITIONS sur Charlotte Perriand 
+
 Le 23 octobre 2019 j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte et designer. 
 
 J´ai trouvé cette exposition passionnante, j´ai été touchée par l´inhabituel vie de Charlotte Perriand.
 
-Voilà quelques photos:
+Voilà quelques une de mes photos:
+![Super image](/img/expo_charlotte_photo.jpg)
+
+Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
 
-Voilà quelques croquis:
+Photo du célèbre fauteuil chaise-longue à réglage continu dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965, que mon amie à chez elle. Cette icône du design illustre l’adéquation parfaite entre la forme et la fonction. La forme de la balancelle épouse le corps humain pour un repos complet. 
 ![Super image](/img/.jpg)
-
-Photo du célèbre fauteuil chaise-longue à réglage continu dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre l’adéquation parfaite entre la forme et la fonction. La forme de la balancelle épouse le corps humain pour un repos complet. 
 
 
 ## EXPOSITIONS à MAD sur l’histoire de la chaussure
-Le ../../.. j´ai fais la visite de la fondation Louis Vuitton imaginé par Franck Guéri, un architecte dont les travaux me fascinent par leur originalité. Là bas, j’ai découvert l’univers, le parcours et les créations de Charlotte Perriand, architecte et designer. 
 
-pq jai aimé
+En janvier de l'année dernière, j´ai assisté à l´exposition Marche et démarche au Musée des Arts Décoratifs. Cette exposition m’a beaucoup plus car elle avait une vision historique sur le statut de cet accessoire indispensable du quotidien. J´ai pu decouvrir les différentes façons de marcher, du Moyen Âge à nos jours, tant en Occident que dans les cultures non européennes. 
 
-Voilà mes différents dessins de l’expo:
-![Super image](/img/.jpg)
+Voilà quelques une de mes photos:
 ![Super image](/img/.jpg)
 
-
-mes photos de l‘expo 
-
-
-## EXPOSITIONS à MAD sur Harper’s Bazaar le premier magazine de mode
-Le ../../.. j´ai fais la visite de la fondation Louis Vuitton imaginé par Franck Guéri, un architecte dont les travaux me fascinent par leur originalité. Là bas, j’ai découvert l’univers, le parcours et les créations de Charlotte Perriand, architecte et designer. 
-
-pq jai aimé
-
-Voilà mes différents dessins de l’expo:
-![Super image](/img/.jpg)
+Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
 
-mes photos de l‘expo 
+
+## EXPOSITIONS sur Harper’s Bazaar le premier magazine de mode
+
+En septembre dernier, entre deux confinement, j´ai assisté avec une amie à l´exposition sur Harper’s Bazaar, au Musée des Arts Décoratifs. Ainsi j´ai pu en apprendre sur ce tout premier et célèbre magazine de mode americain depuis 1867 et j´ai pu admirer de nombreuses créations de couture et de prêt-à-porter paru dans le magazine. Tout au long de l´expositions j´ai decouvert de grand photographes et illustrateurs.
+
+
+Voilà quelques une de mes photos:
+![Super image](/img/.jpg)
+
+Voilà quelques un de mes croquis:
+![Super image](/img/.jpg)
 
 
 ## EXPOSITIONS VIRTUELLES PENDANT LE CONFINEMENT
