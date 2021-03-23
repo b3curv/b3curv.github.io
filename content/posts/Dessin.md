@@ -18,12 +18,14 @@ Mes dessins d´observation
 ## MON INTENTION:
 
 
-
 ## MES CROQUIS ARCHITECTURE:
+
+![Super image](/img/.PNG)
+![Super image](/img/.jpg)
+
 ## MES PORTRAITS:
 
 Voilà une image de mon projet:
-![Super image](/img/.jpg)
+![Super image](/img/portraits_carnet1.PNG)
+![Super image](/img/portraits_carnet2.jpg)
 
-Voilà un super lien :
-[lien](https://leiningen.org/)
