@@ -1,5 +1,5 @@
 ---
-title: "J'observe puis je dessine"
+title: "J'observe et je dessine"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -20,8 +20,8 @@ Mes dessins d´observation
 
 ## MES CROQUIS ARCHITECTURE:
 
-![Super image](/img/.PNG)
-![Super image](/img/.jpg)
+![Super image](/img/archi_carnet1.PNG)
+![Super image](/img/archi_carnet2.PNG)
 
 ## MES PORTRAITS:
 
