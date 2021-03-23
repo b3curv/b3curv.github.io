@@ -13,9 +13,9 @@ categories:
 
 <!--more-->
 
-Habitant près de Paris, je profite de cette opportunité pour pouvoir me balader, observer et visiter les bâtiments de Paris. 
+Habitant près de Paris, je profite de cette opportunité pour pouvoir me balader, observer et visiter les somptueux bâtiments de Paris. 
 
-Ainsi avec ma famille ou mon groupe d’atelier d’arts appliqués j’ai pu assister à de nombreuses expositions ces derniers temps : 
+Ainsi avec ma famille, une amie, mon copain ou mon groupe d’atelier d’arts appliqués, j’ai pu assister à de nombreuses expositions ces derniers temps : 
 - à la Fondation Louis Vuitton pour l’exposition sur <ins> Charlotte Perriand </ins>, 
 - au musée des Arts Décoratifs pour les expositions sur <ins> l’histoire de la chaussure </ins> ,
 - <ins>Harper’s Bazaar le premier magazine de mode</ins> , 
@@ -27,16 +27,17 @@ Ainsi avec ma famille ou mon groupe d’atelier d’arts appliqués j’ai pu as
 
 
 ## EXPOSITIONS sur Charlotte Perriand 
-Le ../../.. j´ai fais la visite de la fondation Louis Vuitton imaginé par Franck Guéri, un architecte dont les travaux me fascinent par leur originalité. Là bas, j’ai découvert l’univers, le parcours et les créations de Charlotte Perriand, architecte et designer. 
+Le 23 octobre 2019 j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte et designer. 
 
-pq jai aimé
+J´ai trouvé cette exposition passionnante, j´ai été touchée par l´inhabituel vie de Charlotte Perriand.
 
-Voilà mes différents dessins de l’expo:
+Voilà quelques photos:
 ![Super image](/img/.jpg)
+
+Voilà quelques croquis:
 ![Super image](/img/.jpg)
 
-De plus Elise photo du fauteuil
-mes photos de l‘expo 
+Photo du célèbre fauteuil chaise-longue à réglage continu dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre l’adéquation parfaite entre la forme et la fonction. La forme de la balancelle épouse le corps humain pour un repos complet. 
 
 
 ## EXPOSITIONS à MAD sur l’histoire de la chaussure
