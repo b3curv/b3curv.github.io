@@ -11,7 +11,6 @@ tags:
   - Objet
 ---
 
-Projet objet: 
 
 <!--more-->
 
