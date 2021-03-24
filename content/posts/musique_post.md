@@ -1,5 +1,5 @@
 ---
-title: Mes émotions musicales
+title: Musicalité sans musique
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -10,8 +10,7 @@ categories:
 tags:
   - Espace
 ---
-
-Projet espace : Exprimer les émotions que me suscite une musique en dessinant
+La Symphonie No. 6 de Ludwig van Beethoven une source d'inspiration
 
 <!--more-->
 
