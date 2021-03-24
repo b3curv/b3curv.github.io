@@ -10,8 +10,7 @@ categories:
 tags:
   - Objet
 ---
-
-Projet objet: 
+Les animaux, une source d'inspiration
 
 <!--more-->
 
