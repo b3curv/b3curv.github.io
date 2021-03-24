@@ -1,5 +1,5 @@
 ---
-title: "Je transforme un habit en un habitat"
+title: "Design Espace : Habit, Habitat"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-03-14T23:54:31+08:00
 author: Adeline
@@ -11,7 +11,6 @@ tags:
   - Espace
 ---
 
-Projet Espace : D'une collerette à un parc ouvert...
 <!--more-->
 
 
