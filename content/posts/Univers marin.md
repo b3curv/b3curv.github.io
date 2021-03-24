@@ -1,5 +1,5 @@
 ---
-title: "Je m’inspire de l'univers marin pour concevoir des objets"
+title: "Design Objet : L'Univers marin comme source d'inspiration"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
