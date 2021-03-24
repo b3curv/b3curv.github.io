@@ -1,5 +1,5 @@
 ---
-title: J'emmene ma chambre au fond de l´ocean
+title: "Design Espace scénographique : Un voyage au fond de l'océan"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -11,8 +11,7 @@ tags:
   - Espace scénographie
 ---
 
-Projet d'espace scénographique : 
-Plonger mon plafond, mon plancher et ma fenêtre dans les fonds sous-marins...
+problematique
 
 <!--more-->
 
