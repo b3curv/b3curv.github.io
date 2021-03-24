@@ -1,5 +1,5 @@
 ---
-title: "J’incarne un animal en objet"
+title: "Poils, plumes, peaux"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -11,7 +11,7 @@ tags:
   - Objet
 ---
 
-Projet objet: Poils, plumes, peaux
+Projet objet: 
 
 <!--more-->
 
