@@ -1,5 +1,5 @@
 ---
-title: "J'observe et je dessine"
+title: "Education de l'oeil, un travail du quotidien"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
