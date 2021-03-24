@@ -11,7 +11,6 @@ tags:
   - Objet
 ---
 
-Mes dessins d´observation
 
 <!--more-->
 
