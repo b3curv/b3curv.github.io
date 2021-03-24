@@ -26,11 +26,9 @@ Ainsi avec ma famille, une amie, mon copain ou mon groupe d’atelier d’arts a
 
 
 
-## EXPOSITIONS sur Charlotte Perriand 
+## Charlotte Perriand - Fondation Louis Vuitton 2019
 
-Le 23 octobre 2019 j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte et designer. 
-
-J´ai trouvé cette exposition passionnante, j´ai été touchée par l´inhabituel vie de Charlotte Perriand.
+Le 23 octobre 2019 j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte et designer. J´ai trouvé cette vie passionnante, méler la forme et la fonction. J´ai été touchée par l´inhabituel vie de Charlotte Perriand.
 
 Voilà quelques une de mes photos:
 ![Super image](/img/expo_charlotte_photo.jpg)
@@ -38,13 +36,13 @@ Voilà quelques une de mes photos:
 Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
 
-Photo du célèbre fauteuil chaise-longue à réglage continu dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965, que mon amie à chez elle. Cette icône du design illustre l’adéquation parfaite entre la forme et la fonction. La forme de la balancelle épouse le corps humain pour un repos complet. 
+Photo du célèbre fauteuil chaise-longue à réglage continu dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965, que mon amie à chez elle. Cette icône du design illustre l’adéquation parfaite entre la forme et la fonction. 
 ![Super image](/img/.jpg)
 
 
-## EXPOSITIONS à MAD sur l’histoire de la chaussure
+## L'histoire de la chaussure - Musée des Arts Décoratifs 2020
 
-En janvier de l'année dernière, j´ai assisté à l´exposition Marche et démarche au Musée des Arts Décoratifs. Cette exposition m’a beaucoup plus car elle avait une vision historique sur le statut de cet accessoire indispensable du quotidien. J´ai pu decouvrir les différentes façons de marcher, du Moyen Âge à nos jours, tant en Occident que dans les cultures non européennes. 
+En janvier de l'année dernière, j´ai assisté à l´exposition Marche et démarche au Musée des Arts Décoratifs(75). Cette exposition m’a beaucoup plus car elle avait une vision historique sur le statut de cet accessoire indispensable du quotidien. J´ai pu decouvrir les différentes façons de marcher, du Moyen Âge à nos jours, tant en Occident que dans les cultures non européennes. 
 
 Voilà quelques une de mes photos:
 ![Super image](/img/.jpg)
@@ -53,9 +51,9 @@ Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
 
 
-## EXPOSITIONS sur Harper’s Bazaar le premier magazine de mode
+##  Harper’s Bazaar le premier magazine de mode - Musée des Arts Décoratifs septembre 2020
 
-En septembre dernier, entre deux confinement, j´ai assisté avec une amie à l´exposition sur Harper’s Bazaar, au Musée des Arts Décoratifs. Ainsi j´ai pu en apprendre sur ce tout premier et célèbre magazine de mode americain depuis 1867 et j´ai pu admirer de nombreuses créations de couture et de prêt-à-porter paru dans le magazine. Tout au long de l´expositions j´ai decouvert de grand photographes et illustrateurs.
+En septembre dernier, entre deux confinement, j´ai assisté avec une amie à l´exposition sur Harper’s Bazaar, au Musée des Arts Décoratifs(75). Ainsi j´ai pu en apprendre sur ce tout premier et célèbre magazine de mode americain depuis 1867 et j´ai pu admirer de nombreuses créations de couture et de prêt-à-porter paru dans le magazine. Tout au long de l´expositions j´ai decouvert de grand photographes et illustrateurs.
 
 
 Voilà quelques une de mes photos:
@@ -65,11 +63,13 @@ Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
 
 
-## EXPOSITIONS VIRTUELLES PENDANT LE CONFINEMENT
+## Atelier d'Antoine Bourdelle - Exposition virtuelle pendant le confinement mars 2020
 
-ATELIER D’ANTOINE BOURDELLE LE ../../..
+Un besoin de m'évader, voir des expositions virtuelles 
+l'ingeniosité des musées à créer des expositions virtuelles pendant cette dure période du premier confinement, une bouffée d'air. 
+les expositions virtuelles ont ete pour moi une b a une solution a monbesoin de mevader
 
-Malgré les confinements, j’ai pu tout de même visiter des musées à distance tel que le musée virtuel sur les œuvres d’Antoine Bourdelle à Paris qui m'a beaucoup plu. 
+ayant un besoin constant 
 
 Voilà mes dessins de l’atelier:
 ![Super image](/img/bourdelle_carnet1.jpg)
