@@ -1,5 +1,5 @@
 ---
-title: "La forêt australienne m’inspire un tatouage"
+title: "De l'actualité à l'intemporalité"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -10,7 +10,7 @@ categories:
 
 ---
 
-Je me suis intéressée aux violents feux de brousses que rencontre l´Australie
+Des incendies de 2019 en l´Australie, au tatouage du citadin parisien.
 
 <!--more-->
 
