@@ -1,5 +1,5 @@
 ---
-title: "Les expositions que j´ai le plus adoré"
+title: "Se nourrir au quotidien, la curiosité comme un appétit"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
