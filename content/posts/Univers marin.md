@@ -14,14 +14,11 @@ tags:
 
 <!--more-->
 
-## MON INTENTION:
-Mon idée a été de prendre les caractéristiques de differents animaux et de créer un produit avec. 
+## Le style bord de mer 
+Le style bord de mer sait faire chavirer les cœurs : entre le cailloux au bord de la plage, ... et ... , laissez-vous embarquer par son ambiance chic et contemporaine. Avec ce style, mes créations vous promet une belle escapade.
 
-Ainsi j’ai imaginer des sacs et des vases qui font penser à des animaux.
+## Une sensation comme source d´inspiration
 
-## MOI ET LES ANIMAUX:
-
-## MES CROQUIS D´ANIMAUX:
 
 Voilà une image de mon projet:
 ![Super image](/img/.jpg)
