@@ -28,7 +28,7 @@ Ainsi avec ma famille, une amie, mon copain ou mon groupe d’atelier d’arts a
 
 ## Charlotte Perriand - Fondation Louis Vuitton 2019
 
-Le 23 octobre 2019 j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte et designer. J´ai trouvé cette vie passionnante, méler la forme et la fonction. J´ai été touchée par l´inhabituel vie de Charlotte Perriand.
+Le 23 octobre 2019, j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte et designer.    J´ai trouvé cette vie passionnante, méler la forme et la fonction. J´ai été touchée par l´inhabituel vie de Charlotte Perriand.
 
 Voilà quelques une de mes photos:
 ![Super image](/img/expo_charlotte_photo.jpg)
