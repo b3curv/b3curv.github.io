@@ -24,6 +24,7 @@ Le tatouage est une trace symbolique faite sur la peau est le plus souvent fait 
 ![Super image](/img/tatouage_croquis1.PNG)
 ![Super image](/img/tatouage_croquis2.jpg)
 ![Super image](/img/tatouage_croquis3.JPG)
+![Super image](/img/tatouage_croquis3.JPG)
 
 
 ## DU CROQUIS À LA PEAU:
