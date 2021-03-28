@@ -12,6 +12,7 @@ tags:
 ---
 <!--more-->
 
+Techniques mixtes
 
 ![Super image](/img/objet_carnet1.PNG)
 
@@ -20,7 +21,6 @@ tags:
 
 
 ## La ville comme source d'inspiration:
-Techniques mixtes
 
 ![Super image](/img/archi_carnet1.PNG)
 ![Super image](/img/archi_carnet2.PNG)
@@ -31,7 +31,6 @@ Techniques mixtes
 
 ## Capter le regard:
 
-Voilà une image de mon projet:
 ![Super image](/img/portrait_carnet1.PNG)
 ![Super image](/img/portrait_carnet2.PNG)
 
