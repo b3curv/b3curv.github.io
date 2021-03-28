@@ -29,8 +29,8 @@ Techniques mixtes
 ## Capter le regard:
 
 Voilà une image de mon projet:
-![Super image](/img/portraits_carnet1.PNG)
-![Super image](/img/portraits_carnet2.jpg)
+![Super image](/img/portrait_carnet1.PNG)
+![Super image](/img/portrait_carnet2.PNG)
 
 
 ## paysages:
