@@ -12,6 +12,12 @@ tags:
 ---
 <!--more-->
 
+## objets du quotidiens:
+
+![Super image](/img/objet_carnet1.PNG)
+![Super image](/img/objet_carnet2.PNG)
+
+
 ## La ville comme source d'inspiration:
 Techniques mixtes
 
@@ -26,6 +32,7 @@ Voilà une image de mon projet:
 ![Super image](/img/portraits_carnet1.PNG)
 ![Super image](/img/portraits_carnet2.jpg)
 
-## animaux:
 
-![Super image](/img/objet_dessin.PNG)
+## paysages:
+
+![Super image](/img/paysage_carnet.PNG)
