@@ -36,3 +36,6 @@ Voilà une image de mon projet:
 ## paysages:
 
 ![Super image](/img/paysage_carnet.PNG)
+
+## animaux
+
