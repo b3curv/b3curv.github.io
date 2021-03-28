@@ -28,7 +28,7 @@ Ainsi avec ma famille, une amie, mon copain ou mon groupe d’atelier d’arts a
 
 ## Charlotte Perriand - Fondation Louis Vuitton 2019
 
-Le 23 octobre 2019, j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte et designer.    J´ai trouvé cette vie passionnante, méler la forme et la fonction. J´ai été touchée par l´inhabituel vie de Charlotte Perriand.
+Le 23 octobre 2019, j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert **le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte*** et designer. J´ai trouvé cette vie passionnante, méler la forme et la fonction. J´ai été touchée par l´inhabituel vie de Charlotte Perriand.
 
 Voilà quelques une de mes photos:
 ![Super image](/img/expo_charlotte_photo.jpg)
@@ -36,16 +36,15 @@ Voilà quelques une de mes photos:
 Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
 
-Photo du célèbre fauteuil chaise-longue à réglage continu dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965, que mon amie à chez elle. Cette icône du design illustre l’adéquation parfaite entre la forme et la fonction. 
-![Super image](/img/.jpg)
+On y voir le fauteuil chaise-longue à réglage continu dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre **l’adéquation parfaite entre la forme et la fonction. **
 
 
 ## L'histoire de la chaussure - Musée des Arts Décoratifs 2020
 
-En janvier de l'année dernière, j´ai assisté à l´exposition Marche et démarche au Musée des Arts Décoratifs(75). Cette exposition m’a beaucoup plus car elle avait une vision historique sur le statut de cet accessoire indispensable du quotidien. J´ai pu decouvrir les différentes façons de marcher, du Moyen Âge à nos jours, tant en Occident que dans les cultures non européennes. 
+En janvier de l'année dernière, j´ai assisté à l´exposition Marche et démarche au Musée des Arts Décoratifs(75). Cette exposition m’a beaucoup plus car elle avait **une vision historique sur le statut de cet accessoire indispensable du quotidien.** J´ai pu decouvrir les différentes façons de marcher, du Moyen Âge à nos jours, tant en Occident que dans les cultures non européennes. 
 
 Voilà quelques une de mes photos:
-![Super image](/img/.jpg)
+![Super image](/img/expo_chaussure.PNG)
 
 Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
@@ -57,7 +56,7 @@ En septembre dernier, entre deux confinement, j´ai assisté avec une amie à l�
 
 
 Voilà quelques une de mes photos:
-![Super image](/img/.jpg)
+![Super image](/img/expo_magazine.PNG)
 
 Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
@@ -65,11 +64,9 @@ Voilà quelques un de mes croquis:
 
 ## Atelier d'Antoine Bourdelle - Exposition virtuelle pendant le confinement mars 2020
 
-Un besoin de m'évader, voir des expositions virtuelles 
-l'ingeniosité des musées à créer des expositions virtuelles pendant cette dure période du premier confinement, une bouffée d'air. 
-les expositions virtuelles ont ete pour moi une b a une solution a monbesoin de mevader
-
-ayant un besoin constant 
+Une bouffée d´air pour mon besoin de m'évader.
+J‘ai profité de l'ingeniosité des musées à créer des expositions virtuelles pendant cette dure période du premier confinement. 
+Ainsi j´ai pu visité de ma maison l´atelier d´Antoine Bourdelle, célèbre peintre et sculpteur français situédans le 15ᵉ arrondissement de Paris.
 
 Voilà mes dessins de l’atelier:
 ![Super image](/img/bourdelle_carnet1.jpg)
