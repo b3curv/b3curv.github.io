@@ -4,7 +4,7 @@ date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
 avatar: /me/yy.jpg
-cover: /img/dessins.PNG
+cover: /img/dessins.JPG
 categories:
   - Projets
 tags:
@@ -26,3 +26,6 @@ Voilà une image de mon projet:
 ![Super image](/img/portraits_carnet1.PNG)
 ![Super image](/img/portraits_carnet2.jpg)
 
+## animaux:
+
+![Super image](/img/portraits_carnet1.PNG)
