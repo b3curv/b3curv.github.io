@@ -4,7 +4,7 @@ date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
 avatar: /me/yy.jpg
-cover: /img/.jpg
+cover: /img/tatouage_final.jpg
 categories:
   - Projets
 
@@ -24,12 +24,12 @@ Le tatouage est une trace symbolique faite sur la peau est le plus souvent fait 
 ![Super image](/img/tatouage_croquis1.PNG)
 ![Super image](/img/tatouage_croquis2.jpg)
 ![Super image](/img/tatouage_croquis3.JPG)
-![Super image](/img/tatouage_croquis3.JPG)
+![Super image](/img/tatouage_croquis4.jpg)
 
 
 ## DU CROQUIS À LA PEAU:
 
-![Super image](/img/.PNG)
-![Super image](/img/.PNG)
+![Super image](/img/tatouage_final.jpg)
+![Super image](/img/tatouage_shoot.jpg)
 
 
