@@ -31,12 +31,14 @@ Ainsi avec ma famille, une amie, mon copain ou mon groupe d’atelier d’arts a
 Le 23 octobre 2019, j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert **le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte*** et designer. J´ai trouvé cette vie passionnante, méler la forme et la fonction. J´ai été touchée par l´inhabituel vie de Charlotte Perriand.
 
 Voilà quelques une de mes photos:
+On peut y voir le fauteuil chaise-longue à réglage continu, dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre **l’adéquation parfaite entre la forme et la fonction. **
+
 ![Super image](/img/expo_charlotte_photo.jpg)
 
 Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
 
-On y voir le fauteuil chaise-longue à réglage continu dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre **l’adéquation parfaite entre la forme et la fonction. **
+
 
 
 ## L'histoire de la chaussure - Musée des Arts Décoratifs 2020
@@ -48,6 +50,8 @@ Voilà quelques une de mes photos:
 
 Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
+
+
 
 
 ##  Harper’s Bazaar le premier magazine de mode - Musée des Arts Décoratifs septembre 2020
@@ -62,6 +66,7 @@ Voilà quelques un de mes croquis:
 ![Super image](/img/.jpg)
 
 
+
 ## Atelier d'Antoine Bourdelle - Exposition virtuelle pendant le confinement mars 2020
 
 Une bouffée d´air pour mon besoin de m'évader.
@@ -69,7 +74,7 @@ J‘ai profité de l'ingeniosité des musées à créer des expositions virtuell
 Ainsi j´ai pu visité de ma maison l´atelier d´Antoine Bourdelle, célèbre peintre et sculpteur français situédans le 15ᵉ arrondissement de Paris.
 
 Voilà mes dessins de l’atelier:
-![Super image](/img/bourdelle_carnet1.jpg)
-![Super image](/img/bourdelle_carnet2.jpg)
+![Super image](/img/expo_bourdelle1.jpg)
+![Super image](/img/expo_bourdelle2.jpg)
 
 
