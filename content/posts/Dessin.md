@@ -17,7 +17,7 @@ Techniques mixtes
 
 ![Super image](/img/archi_carnet1.PNG)
 ![Super image](/img/archi_carnet2.PNG)
-
+![Super image](/img/archi_carnet3.PNG)
 
 
 ## Capter le regard:
