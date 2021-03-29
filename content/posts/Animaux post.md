@@ -10,21 +10,20 @@ categories:
 tags:
   - Objet
 ---
-Les animaux, une source d'inspiration
 
 <!--more-->
 
-## MON INTENTION:
+## Les animaux, une source d'inspiration:
+
 Mon idée a été de prendre les caractéristiques de differents animaux et de créer un produit avec. 
 
 Ainsi j’ai imaginer des sacs et des vases qui font penser à des animaux.
 
-## MOI ET LES ANIMAUX:
+## Mon rapport avec les animaux:
 
-## MES CROQUIS D´ANIMAUX:
+## MES CROQUIS:
 
 Voilà une image de mon projet:
 ![Super image](/img/.jpg)
 
-Voilà un super lien :
-[lien](https://leiningen.org/)
+
