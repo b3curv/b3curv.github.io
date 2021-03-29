@@ -1,5 +1,5 @@
 ---
-title: Musicalité sans musique
+title: L´architecture de la Symphonie No. 6 de Ludwig van Beethoven.
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
@@ -10,12 +10,13 @@ categories:
 tags:
   - Espace
 ---
-La Symphonie No. 6 de Ludwig van Beethoven une source d'inspiration
+
 
 <!--more-->
 
 
-## MON INTENTION:
+## UNE MUSIQUE RACONTE UNE HISTOIRE:
+
 Mon idée a été exprimer en dessin et en mot, les émotions qu'une musique pouvait susciter en moi. J’ai ainsi écouté quatres musiques de styles différents.
 
 - Flatiron de Suzanne Kraft
@@ -25,21 +26,24 @@ Mon idée a été exprimer en dessin et en mot, les émotions qu'une musique pou
 
 J´ai essayé de mettre des mots sur mon ressenti et de cerner le caractère de la musique. Parmi ces quatres musiques, j'ai découvert plusieurs caractères distincts :  la gaieté, la tristesse, le calme, l'étrange et la puissance.
 
-Une en particulier m’a beaucoup intéressé c’était celle de Beethoven, Symphonie no 6 op 68 Pastorale. Je la trouve fascinante car elle peut être aussi brutal que douce. Elle alterne les notes d’une façon où on ne saurait savoir si on va tomber sur une note grave ou aiguë douce ou dure. Elle transmet un aspect de dualité qui est assez intéressant. Elle me fait penser à une belle et gracieuse danseuse à côté d´un indélicat et brutal boxeur. 
-
-## MES CROQUIS ET MES RECHERCHES:
 ![Super image](/img/.jpg)
 
-De cette idée de dualité met venue à l´esprit des batiments qui reprennent ces mêmes caractéristiques opposés:
+Une en particulier m’a beaucoup intéressé, celle de Beethoven, Symphonie no 6 op 68 Pastorale. Je la trouve fascinante car elle peut être aussi **brutal que douce.** Elle alterne les notes d’une façon où on ne saurait savoir si on va tomber sur des notes graves ou aiguës, douces ou dures. Elle transmet **un aspect de dualité** qui est assez intéressant. Elle me fait penser à une belle et gracieuse danseuse à côté d´un indélicat et brutal boxeur. 
 
-## MES CROQUIS ET MES RECHERCHES:
+![Super image](/img/.jpg)
+
+
+## D´UN SON À DE LA MATIÈRE:
+
+De cette idée de dualité met venue à l´esprit des batiments qui reprennent ces mêmes caractéristiques opposés.
 ![Super image](/img/croquis_musique.jpg)
 
+
 ## CONCEPTION DE LA MAQUETTE:
-Je me suis donc lancée à réaliser en modèle réduit une de mes structures.
 
-## MES CHOIX PLASTIQUE:
+J'ai ainsi réalisé en modèle réduit, une de mes idées. Cette maquette est le résultat de l´histoire de la Symphonie No. 6 de Ludwig van Beethoven.
 
-## MA MAQUETTE:
+![Super image](/img/.jpg)
 
-## MON TIRAGE DE PHOTOS:
+À partir de cette maquette, j´ai pu dessiner le design final de mon projet : une installation et decoration exterieure originale.
+![Super image](/img/antinomie_final.jpg)
