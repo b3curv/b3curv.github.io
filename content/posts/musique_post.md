@@ -26,7 +26,7 @@ Mon idée a été exprimer en dessin et en mot, les émotions qu'une musique pou
 
 J´ai essayé de mettre des mots sur mon ressenti et de cerner le caractère de la musique. Parmi ces quatres musiques, j'ai découvert plusieurs caractères distincts :  la gaieté, la tristesse, le calme, l'étrange et la puissance.
 
-![Super image](/img/.jpg)
+![Super image](/img/croquis_4musiques.jpg)
 
 Une en particulier m’a beaucoup intéressé, celle de Beethoven, Symphonie no 6 op 68 Pastorale. Je la trouve fascinante car elle peut être aussi **brutal que douce.** Elle alterne les notes d’une façon où on ne saurait savoir si on va tomber sur des notes graves ou aiguës, douces ou dures. Elle transmet **un aspect de dualité** qui est assez intéressant. Elle me fait penser à une belle et gracieuse danseuse à côté d´un indélicat et brutal boxeur. 
 
