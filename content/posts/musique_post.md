@@ -30,7 +30,7 @@ J´ai essayé de mettre des mots sur mon ressenti et de cerner le caractère de 
 
 Une en particulier m’a beaucoup intéressé, celle de Beethoven, Symphonie no 6 op 68 Pastorale. Je la trouve fascinante car elle peut être aussi **brutal que douce.** Elle alterne les notes d’une façon où on ne saurait savoir si on va tomber sur des notes graves ou aiguës, douces ou dures. Elle transmet **un aspect de dualité** qui est assez intéressant. Elle me fait penser à une belle et gracieuse danseuse à côté d´un indélicat et brutal boxeur. 
 
-![Super image](/img/.jpg)
+![Super image](/img/croquis_dualite.jpg)
 
 
 ## D´UN SON À DE LA MATIÈRE:
@@ -43,7 +43,8 @@ De cette idée de dualité met venue à l´esprit des batiments qui reprennent c
 
 J'ai ainsi réalisé en modèle réduit, une de mes idées. Cette maquette est le résultat de l´histoire de la Symphonie No. 6 de Ludwig van Beethoven.
 
-![Super image](/img/.jpg)
+![Super image](/img/maquette_musique1.PNG)
+![Super image](/img/maquette_musique2.PNG)
 
 À partir de cette maquette, j´ai pu dessiner le design final de mon projet : une installation et decoration exterieure originale.
 ![Super image](/img/antinomie_final.jpg)
