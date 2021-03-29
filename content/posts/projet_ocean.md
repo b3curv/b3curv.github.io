@@ -20,15 +20,13 @@ J'ai traversé, survolé, et longé lors de mes nombreux voyages de nombreux mer
  
  
  
-## MA CHAMBRE PART EN VOYAGE JUSQU´AU FOND DE L´OCÉAN :
+##  ET SI NOUS HABITIONS LA MER? 
 
 Mon intention a été d’emmener ma chambre, donc mon plafond mon plancher et ma fenêtre à l’autre bout du monde, là où on ne peut pas trouver de maison, où il n’y aucune construction anthropique. 
 
 **J’ai donc pensé aux fonds des vastes océans de la Terre.**
 
-Malheureusement nos océans ne sont pas aussi non-occupés par les hommes que l’on pourrait le croire. Des centaines de câbles sous-marins se promènent dans ces eaux.
-
-**C’est pourquoi mon projet pourrait être une façon de dénoncer cette perpétuelle présence de l’homme sur terre et en spécifique dans la mer.**
+Malheureusement nos océans ne sont pas aussi non-occupés par les hommes que l’on pourrait le croire. Des centaines de câbles sous-marins se promènent dans ces eaux. **C’est pourquoi mon projet pourrait être une façon de dénoncer cette perpétuelle présence de l’homme sur terre et en spécifique dans la mer.**
 
 
 ## MES CROQUIS ET MES RECHERCHES:
@@ -38,7 +36,7 @@ Malheureusement nos océans ne sont pas aussi non-occupés par les hommes que l�
 Mon idée a donc été de concevoir **une maquette** de ma chambre plongée dans l’univers marin.
 Pour donner l’idée de descendre dans les profondeurs, j’ai joué sur l’omniprésence de l’eau réelle d’un **aquarium** surplombant le plafond de chambre. Les miroirs flexibles fixés sur les murs et le sol de ma maquette qui illustrent un océan vaste et infini et qui créer des reflets de lumière et multiplient les dimensions.
 
-Voila ce que j'avais l'idée de faire:
+Voilà ce que j'avais l'idée de faire:
 J'ai realisé ce montage à partir des bases de ma maquette ainsi que l'application Procreate.
 
 
