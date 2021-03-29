@@ -18,7 +18,9 @@ problematique
 ## MES EXPERIENCES AVEC L'OCÉAN:
 J'ai traversé, survolé, et longé lors de mes nombreux voyages de nombreux mers et oceans. Mais vue d'un bateau, d'un avion ou d'une plage, mon émerveillement pour l'océan ne change pas. Je suis fascinée par l'immensité des océans de la Terre qui d'ailleurs donne à la Terre son surnom de Planète bleue, au fait que plus de 70 % de sa superficie est recouverte de mers, d'océans et de lacs. 
  
-## MON INTENTION:
+ 
+ 
+## MA CHAMBRE PART EN VOYAGE JUSQU´AU FOND DE L´OCÉAN :
 
 Mon intention a été d’emmener ma chambre, donc mon plafond mon plancher et ma fenêtre à l’autre bout du monde, là où on ne peut pas trouver de maison, où il n’y aucune construction anthropique. 
 
