@@ -1,7 +1,7 @@
 ---
 title: "Design Espace : Habit, Habitat"
 date: 2021-01-12T23:54:31+08:00
-lastmod: 2021-03-14T23:54:31+08:00
+lastmod: 2021-03-19T23:54:31+08:00
 author: Adeline
 avatar: /me/yy.jpg
 cover: /img/final_collerette.jpg
@@ -10,13 +10,12 @@ categories:
 tags:
   - Espace
 ---
-Une collerette intemporelle
 
 <!--more-->
 
 
 
-## MON INTENTION:
+## Un voyage dans le temps et dans l’espace, de la souplesse à la rigidité:
 
 Mon intention a été de retranscrire un habit en un habitat.
 Dans cette idée, j'ai repris l'élément de la mode emblématique de la fin de la Renaissance,
