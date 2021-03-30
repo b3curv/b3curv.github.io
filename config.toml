@@ -27,9 +27,9 @@ enableRobotsTXT = true
 
   author = "Adeline DOCHE"
   description = "blog de Adeline DOCHE"
-  avatar = "/me/yy.jpg"
+  avatar = "/me/yy.JPG"
   headerTitle = "Adeline DOCHE"
-  motto = "Ceci est mon blog où je poste mes projets"
+  motto = "Bienvenu sur mon blog, tounez la page (bouton de deux cercles à gauche) pour en savoir plus sur moi."
 
   rss = true
 
