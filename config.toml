@@ -17,7 +17,6 @@ enableRobotsTXT = true
 
 [params]
   background = "#fff"
-  backgroundImage = "/me/"
   linkColor = "seagreen"
 
   backgroundImageDark = "/me/background.jpg"
@@ -29,8 +28,7 @@ enableRobotsTXT = true
   description = "blog de Adeline DOCHE"
   avatar = "/me/yy.JPG"
   headerTitle = "Adeline DOCHE"
-  motto = "Bienvenue sur mon blog, je m´appelle Adeline Doche j´ai 18 ans. Voici quelques uns de mes projets, mon portfolio, mes croquis ainsi que des artistes qui sont pour moi de réelles références artistiques.  
-  Vous pouvez tounez la page (bouton de deux cercles à gauche) pour en savoir plus sur moi."
+  motto = "Bienvenue sur mon blog, je m´appelle Adeline Doche j´ai 18 ans. Voici quelques uns de mes projets, mon portfolio, mes croquis ainsi que des artistes qui sont pour moi de réelles références artistiques. Vous pouvez tounez la page (bouton de deux cercles à gauche) pour en savoir plus sur moi."
 
   rss = true
 
