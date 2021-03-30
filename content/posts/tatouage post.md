@@ -3,7 +3,7 @@ title: "Des incendies de 2019 en l´Australie, au tatouage du citadin parisien"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
-avatar: /me/yy.jpg
+avatar: /me/yy.JPG
 cover: /img/tatouage_final.jpg
 categories:
   - Projets
