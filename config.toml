@@ -17,13 +17,13 @@ enableRobotsTXT = true
 
 [params]
   background = "#fff"
-  backgroundImage = "/me/background.jpg"
+  backgroundImage = "/me/"
   linkColor = "seagreen"
 
   backgroundImageDark = "/me/background.jpg"
   darkLinkColor = "darkseagreen"
 
-  images = ["me/background.jpg"]
+  images = ["me/"]
 
   author = "Adeline DOCHE"
   description = "blog de Adeline DOCHE"
