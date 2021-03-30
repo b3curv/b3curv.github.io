@@ -3,7 +3,7 @@ title: "Design Espace : Habit, Habitat"
 date: 2021-01-29T23:54:31+08:00
 lastmod: 2021-01-29T23:54:31+08:00
 author: Adeline
-avatar: /me/yy.jpg
+avatar: /me/yy.JPG
 cover: /img/final_collerette.jpg
 categories:
   - Projets
