@@ -33,12 +33,23 @@ Le 23 octobre 2019, j´ai passé tout une journée à la fondation Louis Vuitton
 Voilà quelques une de mes photos:
 On peut y voir le fauteuil chaise-longue à réglage continu, dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre **l’adéquation parfaite entre la forme et la fonction. **
 
+Voilà quelques une de mes photos de l´exposition:
 ![Super image](/img/expo_charlotte_photo.jpg)
 
 Voilà quelques un de mes croquis:
-![Super image](/img/.jpg)
+![Super image](/img/croquis_charlotte.jpg)
 
 
+## Banksy - 2020
+
+texte 
+
+
+Voilà quelques une de mes photos de l´exposition:
+![Super image](/img/expo_banksy.
+
+Voilà quelques un de mes croquis:
+![Super image](/img/croquis_banksy.jpg)
 
 
 ## L'histoire de la chaussure - Musée des Arts Décoratifs 2020
@@ -49,7 +60,7 @@ Voilà quelques une de mes photos:
 ![Super image](/img/expo_chaussure.PNG)
 
 Voilà quelques un de mes croquis:
-![Super image](/img/.jpg)
+![Super image](/img/croquis_chaussure.jpg)
 
 
 
