@@ -16,12 +16,12 @@ tags:
 
 ## La plage de la liberté
 
-Entre le coauillage, cailloux et bruit de vague, le bord de la plage me fait ressentir le calme et la liberté. 
-Sur la plage je me sens libre, mes problèmes et quelques grains de sables s´envolent aux vents. Rien ne m´attend, aucun trains à prendre, je peut profiter de ce moment tranquille.
+Entre les coquillages, galets et bruits de vague, le bord de la plage me fait ressentir le calme et la liberté. 
+Sur la plage je me sens libre, mes problèmes et quelques grains de sables s´envolent au vent. Ni stress, ni trains à prendre, je peux profiter de ce moment tranquille toute seule ou avec les gens que j´aime.
 
-## coauillage / cailloux / sable : mes croquis
+## Bords de mer aux quartre coins du monde :
 
-Voilà une image de mon projet:
 ![Super image](/img/.jpg)
-
+![Super image](/img/.jpg)
+![Super image](/img/.jpg)
 
