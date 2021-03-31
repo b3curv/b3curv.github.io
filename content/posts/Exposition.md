@@ -38,7 +38,7 @@ Voilà quelques une de mes photos de l´exposition:
 
 Voilà quelques un de mes croquis:
 ![Super image](/img/croquis_charlotte.jpg)
-
+![Super image](/img/croquis_charlotte2.jpg)
 
 ## Banksy - 2020
 
