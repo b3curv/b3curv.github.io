@@ -44,9 +44,8 @@ Voilà quelques un de mes croquis:
 
 texte 
 
-
 Voilà quelques une de mes photos de l´exposition:
-![Super image](/img/expo_banksy.
+![Super image](/img/expo_banksy.jpg)
 
 Voilà quelques un de mes croquis:
 ![Super image](/img/croquis_banksy.jpg)
