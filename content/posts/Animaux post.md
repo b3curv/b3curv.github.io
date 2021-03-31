@@ -1,7 +1,7 @@
 ---
 title: "Poils, plumes, peaux"
-date: 2021-01-12T23:54:31+08:00
-lastmod: 2021-01-12T23:54:31+08:00
+date: 2021-01-20T23:54:31+08:00
+lastmod: 2021-01-20T23:54:31+08:00
 author: Adeline
 avatar: /me/yy.JPG
 cover: /img/animaux_croquis1.PNG
