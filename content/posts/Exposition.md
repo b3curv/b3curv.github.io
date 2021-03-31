@@ -6,7 +6,7 @@ author: Adeline
 avatar: /me/yy.JPG
 cover: /img/expo_bourdelle1.jpg
 categories:
-  - Exposition
+  - Exposition et références culturelles
 
 ---
 
