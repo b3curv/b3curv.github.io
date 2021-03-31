@@ -18,8 +18,4 @@ tags:
 
 fonction forme...
 
-
-![Super image](/img/collerette_portfolio.JPG)
-![Super image](/img/ocean_portfolio.JPG)
-![Super image](/img/musique_portfolio.JPG)
-![Super image](/img/tatouage_portfolio.JPG)
+<iframe allowfullscreen="" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 700px;" src="https://heyzine.com/flip-book/ae7e67c338.html"></iframe>
