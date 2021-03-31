@@ -1,7 +1,7 @@
 ---
 title: "Design Objet : La plage comme source d'inspiration"
-date: 2021-01-12T23:54:31+08:00
-lastmod: 2021-01-12T23:54:31+08:00
+date: 2021-01-19T23:54:31+08:00
+lastmod: 2021-01-19T23:54:31+08:00
 author: Adeline
 avatar: /me/yy.JPG
 cover: /img/coquillage.JPG
