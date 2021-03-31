@@ -1,5 +1,5 @@
 ---
-title: "Design Objet : La plage comme source d'inspiration"
+title: "La plage comme source d'inspiration - - design objet"
 date: 2021-01-19T23:54:31+08:00
 lastmod: 2021-01-19T23:54:31+08:00
 author: Adeline
