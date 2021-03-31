@@ -34,9 +34,11 @@ Voilà quelques une de mes photos:
 On peut y voir le fauteuil chaise-longue à réglage continu, dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre **l’adéquation parfaite entre la forme et la fonction. **
 
 Voilà quelques une de mes photos de l´exposition:
+
 ![Super image](/img/expo_charlotte_photo.jpg)
 
 Voilà quelques un de mes croquis:
+
 ![Super image](/img/croquis_charlotte.jpg)
 ![Super image](/img/croquis_charlotte2.PNG)
 
@@ -45,9 +47,11 @@ Voilà quelques un de mes croquis:
 texte 
 
 Voilà quelques une de mes photos de l´exposition:
+
 ![Super image](/img/expo_banksy.jpg)
 
 Voilà quelques un de mes croquis:
+
 ![Super image](/img/croquis_banksy.jpg)
 
 
@@ -56,9 +60,11 @@ Voilà quelques un de mes croquis:
 En janvier de l'année dernière, j´ai assisté à l´exposition Marche et démarche au Musée des Arts Décoratifs(75). Cette exposition m’a beaucoup plus car elle avait **une vision historique sur le statut de cet accessoire indispensable du quotidien.** J´ai pu decouvrir les différentes façons de marcher, du Moyen Âge à nos jours, tant en Occident que dans les cultures non européennes. 
 
 Voilà quelques une de mes photos:
+
 ![Super image](/img/expo_chaussure.PNG)
 
 Voilà quelques un de mes croquis:
+
 ![Super image](/img/croquis_chaussure.jpg)
 
 
@@ -70,9 +76,11 @@ En septembre dernier, entre deux confinement, j´ai assisté avec une amie à l�
 
 
 Voilà quelques une de mes photos:
+
 ![Super image](/img/expo_magazine.PNG)
 
 Voilà quelques un de mes croquis:
+
 ![Super image](/img/.jpg)
 
 
@@ -84,6 +92,7 @@ J‘ai profité de l'ingeniosité des musées à créer des expositions virtuell
 Ainsi j´ai pu visité de ma maison l´atelier d´Antoine Bourdelle, célèbre peintre et sculpteur français situédans le 15ᵉ arrondissement de Paris.
 
 Voilà mes dessins de l’atelier:
+
 ![Super image](/img/expo_bourdelle1.jpg)
 ![Super image](/img/expo_bourdelle2.jpg)
 
