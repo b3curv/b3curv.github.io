@@ -34,10 +34,9 @@ Techniques mixtes
 ![Super image](/img/portrait_carnet1.PNG)
 ![Super image](/img/portrait_carnet2.PNG)
 
-
-## paysages:
+## Mes 2 yeux et les 4 coins du monde:
 
 ![Super image](/img/paysage_carnet.PNG)
 
-## animaux
+
 
