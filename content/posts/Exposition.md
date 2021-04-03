@@ -31,7 +31,7 @@ Ainsi avec ma famille, mes amis, ou mon groupe d’atelier d’arts appliqués, 
 Le 23 octobre 2019, j´ai pasée une journée entière à la fondation Louis Vuitton pour visiter l´exposition des travaux de Charlotte PERRIAND. J’ai ainsi découvert **le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte*** et designer. J´ai trouvé sa vie passionnante, elle a su allier la forme et la fonction. 
 
 Voilà quelques une de mes photos:
-On peut y voir le fauteuil chaise-longue à réglage continu, dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre **l’adéquation parfaite entre la forme et la fonction. **
+On peut y voir le fauteuil chaise-longue à réglage continu, dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre **l’adéquation parfaite entre la forme et la fonction.**
 
 Voilà quelques une de mes photos de l´exposition:
 
