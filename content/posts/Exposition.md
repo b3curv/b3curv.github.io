@@ -13,22 +13,22 @@ categories:
 
 <!--more-->
 
-Habitant près de Paris, je profite de cette opportunité pour pouvoir me balader, observer et visiter les somptueux bâtiments de Paris. 
+Habitant en banlieue Parisienne, je profite de cela pour pouvoir me balader, observer et visiter les somptueux bâtiments de Paris. 
 
-Ainsi avec ma famille, une amie, mon copain ou mon groupe d’atelier d’arts appliqués, j’ai pu assister à de nombreuses expositions ces derniers temps : 
-- à la Fondation Louis Vuitton pour l’exposition sur <ins> Charlotte Perriand </ins>, 
-- au musée des Arts Décoratifs pour les expositions sur <ins> l’histoire de la chaussure </ins> ,
-- <ins>Harper’s Bazaar le premier magazine de mode</ins> , 
-- à l’atelier des Lumières sur <ins> l’impressionnisme</ins> et
-- exposition virtuelle de l’Atelier Bourdelle.
+Ainsi avec ma famille, mes amis, ou mon groupe d’atelier d’arts appliqués, j’ai pu assister à de nombreuses expositions ces derniers temps : 
+- l’exposition sur <ins> Charlotte Perriand </ins> à la Fondation Louis Vuitton, 
+- l´exposition sur <ins> l’histoire de la chaussure </ins>au musée des Arts Décoratifs,
+- l´exposition <ins>Harper’s Bazaar le premier magazine de mode</ins> au musée des Arts Décoratifs, 
+- l'exposition <ins> sur l’impressionnisme</ins> à l’atelier des Lumières et
+- l'exposition virtuelle de <ins> l’Atelier d´Antoine Bourdelle.<ins>
 
-**J’adore me poser pour dessiner** une œuvre qui me surprend, qui sort de l’ordinaire ou qui me fascine. Ainsi je ressors de l’exposition avec tout un tas de croquis et pleins d’idées de projets ou de dessins.
+**J’adore me poser pour dessiner une œuvre qui me surprend, qui sort de l’ordinaire ou qui me fascine.** Ainsi je sors de l’exposition avec tout un tas de croquis et pleins d’idées de projets ou de dessins.
 
 
 
 ## Charlotte Perriand - Fondation Louis Vuitton 2019
 
-Le 23 octobre 2019, j´ai passé tout une journée à la fondation Louis Vuitton pour participer à l´exposition des travaux de Charlotte Perriand. J’ai ainsi découvert **le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte*** et designer. J´ai trouvé cette vie passionnante, méler la forme et la fonction. J´ai été touchée par l´inhabituel vie de Charlotte Perriand.
+Le 23 octobre 2019, j´ai pasée une journée entière à la fondation Louis Vuitton pour visiter l´exposition des travaux de Charlotte PERRIAND. J’ai ainsi découvert **le parcours, l´univers et les créations révolutionnaires de cette merveilleuse architecte*** et designer. J´ai trouvé sa vie passionnante, elle a su allier la forme et la fonction. 
 
 Voilà quelques une de mes photos:
 On peut y voir le fauteuil chaise-longue à réglage continu, dessinée en 1928 par Le Corbusier, Pierre Jeanneret et Charlotte Perriand et rendue célèbre à partir de 1965. Cette icône du design illustre **l’adéquation parfaite entre la forme et la fonction. **
@@ -44,7 +44,7 @@ Voilà quelques un de mes croquis:
 
 ## Banksy - 2020
 
-texte 
+Banksy est artiste provoquant qui m´inspire car il traite de sujet sociaux en montrant les différents travers de la société. En seulement quelques traits, il arrive à faire passer un message fort. Voilà les oeuvres qui m´ont le plus marquées durant cette exposition. 
 
 Voilà quelques une de mes photos de l´exposition:
 
@@ -57,7 +57,9 @@ Voilà quelques un de mes croquis:
 
 ## L'histoire de la chaussure - Musée des Arts Décoratifs 2020
 
-En janvier de l'année dernière, j´ai assisté à l´exposition Marche et démarche au Musée des Arts Décoratifs(75). Cette exposition m’a beaucoup plus car elle avait **une vision historique sur le statut de cet accessoire indispensable du quotidien.** J´ai pu decouvrir les différentes façons de marcher, du Moyen Âge à nos jours, tant en Occident que dans les cultures non européennes. 
+En janvier de l'année dernière, j´ai assisté à l´exposition Marche et démarche au Musée des Arts Décoratifs(75). 
+
+Cette exposition m’a beaucoup plue car elle avait **une vision historique sur le statut de cet accessoire indispensable au quotidien.** J´ai pu découvrir les différentes façons de marcher, du Moyen Âge à nos jours, quelque soit le lieu. 
 
 Voilà quelques une de mes photos:
 
@@ -72,7 +74,7 @@ Voilà quelques un de mes croquis:
 
 ##  Harper’s Bazaar le premier magazine de mode - Musée des Arts Décoratifs septembre 2020
 
-En septembre dernier, entre deux confinement, j´ai assisté avec une amie à l´exposition sur Harper’s Bazaar, au Musée des Arts Décoratifs(75). Ainsi j´ai pu en apprendre sur ce tout premier et célèbre magazine de mode americain depuis 1867 et j´ai pu admirer de nombreuses créations de couture et de prêt-à-porter paru dans le magazine. Tout au long de l´expositions j´ai decouvert de grand photographes et illustrateurs.
+En septembre dernier, entre deux confinements, j´ai assisté avec une amie à l´exposition sur Harper’s Bazaar, au Musée des Arts Décoratifs(75). Ainsi j´ai pu en apprendre sur ce tout premier et célèbre magazine de mode americain depuis 1867 et j´ai pu admirer de nombreuses créations de couture et de prêt-à-porter paru dans le magazine. Tout au long de l´expositions j´ai decouvert de grand photographes et illustrateurs.
 
 
 Voilà quelques une de mes photos:
