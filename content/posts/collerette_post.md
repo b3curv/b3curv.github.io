@@ -56,6 +56,4 @@ Réalisation du plafond de la collerette:
 ![Super image](/img/construction_argile.PNG)
 ![Super image](/img/simu_argile.jpg)
 
-## MA MAQUETTE:
-![Super image](/img/.jpg)
 
