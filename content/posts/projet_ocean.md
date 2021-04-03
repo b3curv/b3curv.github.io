@@ -63,8 +63,7 @@ dans le noir avec un filtre bleu
 
 ![Super image](/img/deuxième_shoot_ocean.PNG)
 
-
-Voila quelques videos du second tirage:
+## VIDÉO FINALE
 {{< youtube MdGiQ-V3oiw >}}
 
 
