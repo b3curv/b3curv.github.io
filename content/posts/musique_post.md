@@ -36,7 +36,7 @@ Une en particulier m’a beaucoup intéressé, celle de Beethoven, Symphonie no 
 ## D´UN SON À DE LA MATIÈRE:
 
 De cette idée de dualité met venue à l´esprit des batiments qui reprennent ces mêmes caractéristiques opposés.
-![Super image](/img/croquis_musique.jpg)
+![Super image](/img/croquis_musique.PNG)
 
 
 ## CONCEPTION DE LA MAQUETTE:
