@@ -1,5 +1,5 @@
 ---
-title: "Poils, plumes, peaux - - design objet"
+title: "Poils, plumes, peaux - design objet"
 date: 2021-01-20T23:54:31+08:00
 lastmod: 2021-01-20T23:54:31+08:00
 author: Adeline
@@ -13,15 +13,22 @@ tags:
 
 <!--more-->
 
-## Les animaux, une source d'inspiration:
+## Les animaux, une source d'inspiration :
 
-Mon idée a été de prendre les caractéristiques de differents animaux et de créer un produit avec. 
-Ainsi j’ai imaginer des sacs et des vases qui font penser à des animaux.
+À partir des caractéristiques de différents animaux, j'ai créer différents produits. 
+J'ai ainsi imaginé des sacs qui font référence à ces animaux.
 
-## MES CROQUIS:
+## MES CROQUIS ET MES PRODUITS OBJETS :
 
-Voilà une image de mon projet:
+À partir d'aquarelles, voici mon "sac "Nemo" et mon "sac à Meuh".
 ![Super image](/img/animaux_croquis1.PNG)
+
+Sur le theme du Safari Africain, voici deux sacs :
+
+Mon sac "GRÉVY", en référence à l'espèce menacée des zèbres du Kenya et d'Ethiopie, reprend leurs rayures qui leur servent à se différencier les uns des autres, à réguler leur temperature et à les protèger des mouches tsé - tsé.
+
+Ainsi que mon "sac SUMATRA", en référence à l'éléphant d'Indonesie en voie d'extinction à cause de l'importante déforestation sur l'île de Sumatra depuis les annees 1980. La vie de ces éléphants est lourdement menacée à cause d'enjeux économiques.
+
 ![Super image](/img/animaux_croquis2.PNG)
 
 
