@@ -16,10 +16,7 @@ tags:
 ## Les animaux, une source d'inspiration:
 
 Mon idée a été de prendre les caractéristiques de differents animaux et de créer un produit avec. 
-
 Ainsi j’ai imaginer des sacs et des vases qui font penser à des animaux.
-
-## Mon rapport avec les animaux:
 
 ## MES CROQUIS:
 
