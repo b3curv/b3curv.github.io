@@ -42,7 +42,8 @@ Celle que je préfère et qui m'a inspirée pour ce projet est la collerette "gr
 J'ai donc eu l'idée de concevoir une maquette de cette grande fraise pour la transformer en modèle réduit d'un parc ouvert situé au milieu d'un grand rond point.
 Pour réalisé les volants de la collerette, j'ai voulu essayer l'argile.
 
-Voila ce que j’avais l’idée de faire: J’ai realisé ce montage à partir d'une photo d'une collerette des années 1570 ainsi que le travail de MMM sur l’amenagement de rond point à Paris.
+Voilà ce que j’avais l’idée de faire: 
+J’ai realisé ce montage à partir d'une photo d'une collerette des années 1570 ainsi que le travail de **l´Agence Parisienne du climat** sur l’amenagement des sept places emblématiques de Paris.
 
 ![Super image](/img/simu_collerette.jpg)
 
