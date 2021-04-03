@@ -81,7 +81,7 @@ Voilà quelques une de mes photos:
 
 Voilà quelques un de mes croquis:
 
-![Super image](/img/.jpg)
+![Super image](/img/croquis_magazine.jpg)
 
 
 
