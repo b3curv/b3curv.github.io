@@ -3,7 +3,7 @@ title: "Des sinistres Australien de 2019, aux tatouages du citadin parisien"
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: Adeline
-avatar: /me/yy.JPG
+avatar: /me/yy.jpg
 cover: /img/tatouage_final.jpg
 categories:
   - Projets
