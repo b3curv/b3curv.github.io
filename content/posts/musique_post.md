@@ -3,7 +3,7 @@ title: "L´architecture de la Symphonie No. 6 de Ludwig van Beethoven - design e
 date: 2021-01-27T23:54:31+08:00
 lastmod: 2021-01-27T23:54:31+08:00
 author: Adeline
-avatar: /me/yy.JPG
+avatar: /me/yy.jpg
 cover: /img/antinomie_final.jpg
 categories:
   - Projets
