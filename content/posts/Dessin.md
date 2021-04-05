@@ -3,7 +3,7 @@ title: "Education de l'oeil, un travail au quotidien"
 date: 2021-01-25T23:54:31+08:00
 lastmod: 2021-01-25T23:54:31+08:00
 author: Adeline
-avatar: /me/yy.JPG
+avatar: /me/yy.jpg
 cover: /img/dessins.JPG
 categories:
   - Projets
