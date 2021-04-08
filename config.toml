@@ -28,7 +28,7 @@ enableRobotsTXT = true
   description = "blog de Adeline DOCHE"
   avatar = "/me/yy.jpg"
   headerTitle = "Adeline DOCHE"
-  motto = "<p style=\"margin:0\">Bienvenue sur mon blog, je m´appelle Adeline Doche j´ai 18 ans.</p><p style=\"margin:0\">Voici quelques uns de mes projets, mes croquis ainsi que des artistes qui sont pour moi de réelles références artistiques.</p> <p>N´hésitez pas à feuilleter mes portfolios, mes carnets et mes croquis qui sont mes travaux personnels en cliquant <i class=\"link icon dream-flip-toggle\" title=\"Retourne ça!\"><a>ici</a></i>.</p>"
+  motto = "<p style=\"margin:0\">Bienvenue sur mon blog, je m´appelle Adeline Doche j´ai 18 ans.</p><p style=\"margin:0\">Voici quelques uns de mes projets, mes croquis ainsi que des artistes qui sont pour moi de réelles références artistiques.</p> <p>N´hésitez pas à feuilleter mes portfolios, mes carnets et mes croquis qui sont mes travaux personnels en cliquant <i class=\"link icon dream-flip-toggle\" title=\"Retourne ça!\"><a>ici</a></i></p>"
 
   rss = true
 
