@@ -18,7 +18,11 @@ tags:
 
 
 ## MES CROQUIS ET MES PRODUITS OBJETS :
+![Super image](/img/croquis_ubiquite)
 
-![Super image](/img/.PNG)
 
-
+## MES PRODUCTIONS :
+![Super image](/img/lit.PNG)
+![Super image](/img/comptoir.PNG)
+![Super image](/img/toboggan.PNG)
+![Super image](/img/banc.PNG)
