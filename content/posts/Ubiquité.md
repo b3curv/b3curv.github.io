@@ -34,5 +34,5 @@ Ainsi, j’ai réalisé des maquettes montrant comment la marque Nike est prése
 
 ![Super image](/img/lit.PNG)
 ![Super image](/img/comptoir.PNG)
-![Super image](/img/toboggan .PNG)
+![Super image](/img/toboggan.PNG)
 ![Super image](/img/banc.PNG)
