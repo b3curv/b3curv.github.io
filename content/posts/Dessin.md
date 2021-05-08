@@ -32,8 +32,8 @@ Techniques mixtes
 
 ## Le corps humain, une source d´inspiration :
 
-![Super image](/img/Corps_humains1.JPG)
-![Super image](/img/Corps_humains2.JPG)
+![Super image](/img/Corps_humain1.JPG)
+![Super image](/img/Corps_humain2.JPG)
 
 ## Saisir l'ambiance d'un paysage, un exercice d'appréhension de l'espace :
 
