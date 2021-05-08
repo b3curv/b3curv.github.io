@@ -30,6 +30,11 @@ Techniques mixtes
 ![Super image](/img/portrait_carnet1.PNG)
 ![Super image](/img/portrait_carnet2.PNG)
 
+## Le corps humain, une source d´inspiration :
+
+![Super image](/img/Corps_humains1.JPG)
+![Super image](/img/Corps_humains2.JPG)
+
 ## Saisir l'ambiance d'un paysage, un exercice d'appréhension de l'espace :
 
 ![Super image](/img/paysage_carnet.PNG)
