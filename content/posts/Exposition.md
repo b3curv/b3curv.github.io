@@ -7,7 +7,8 @@ avatar: /me/yy.jpg
 cover: /img/expo_bourdelle1.jpg
 categories:
   - Exposition et références culturelles
-
+tags:
+  - Expositions
 ---
 
 
