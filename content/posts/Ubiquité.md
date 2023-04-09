@@ -8,7 +8,7 @@ cover: /img/ubiquite_representation.jpg
 categories:
   - Projets
 tags:
-  - Objet
+  - Projets Pass Art
 ---
 
 <!--more-->
