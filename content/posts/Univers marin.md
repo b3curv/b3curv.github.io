@@ -8,7 +8,7 @@ cover: /img/coquillage.JPG
 categories:
   - Projets
 tags:
-  - Objet
+  - Projets Pass Art
 ---
 
 
