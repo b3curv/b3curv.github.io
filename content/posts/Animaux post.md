@@ -8,7 +8,7 @@ cover: /img/objet_animaux_final.jpg
 categories:
   - Projets
 tags:
-  - Objet
+  - Projets Pass Art
 ---
 
 <!--more-->
