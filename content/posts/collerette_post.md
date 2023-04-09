@@ -8,7 +8,7 @@ cover: /img/final_collerette.jpg
 categories:
   - Projets
 tags:
-  - Espace
+  - Projets Pass Art
 ---
 
 <!--more-->
