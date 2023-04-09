@@ -8,7 +8,7 @@ cover: /img/ocean_finalV2.JPG
 categories:
   - Projets
 tags:
-  - Espace scénographie
+  - Projets Pass Art
 ---
 
 problematique
