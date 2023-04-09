@@ -7,7 +7,8 @@ avatar: /me/yy.jpg
 cover: /img/tatouage_final.jpg
 categories:
   - Projets
-
+tags:
+  - Projets Pass Art
 ---
 
 <!--more-->
