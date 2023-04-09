@@ -8,7 +8,7 @@ cover: /img/dessins.JPG
 categories:
   - Projets
 tags:
-  - Objet
+  - "Dessins d'observation"
 ---
 <!--more-->
 
